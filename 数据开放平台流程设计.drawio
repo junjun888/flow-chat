@@ -1,1 +1,44 @@
-<mxfile host="www.draw.io" modified="2019-11-19T02:25:31.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="fyQlz1EgCiIOWkflhGhq" version="12.2.6" type="github" pages="1"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">3VfbcpswEP0azbQP7nAziEfjSzLTdJqZdJr2UQEZ1ABihIihX18JhDEXN45bp5n6wdauViycc3ZZA3OZlFcMZdEnGuAYGFpQAnMFDEO3NCh+pKdqPLbrNo6QkUAFdY478hMrp6a8BQlw3gvklMacZH2nT9MU+7znQ4zRXT9sS+N+1gyFeOS481E89t6TgEfKq2tat3GNSRip1HCuNh6Q/xgyWqQqHzDMbf1pthPUXkvF5xEK6O7AZa6BuWSU8maVlEscS2xb2JpzmyO7+/tmOOWnHHAcbPuus9VdO0AQmjN1hScUFwoLsLaBOweeJhdwBRZrsBbmEsDa41rAazwu8Ey5gBsV7Im1DtYOWEAAPbnlejK4eXJetWjnO5LEKBWWF/EkFk5dLP2IxMENqmghnyTnAtnW8oTFuJKNZQlHDTmWD6XJ7RZVacToAcfenpcljSkTWymtE+ac0cc9yTLvlqZ8gxISS+1+xSxAKVJulREKE8UkTMXaF0BjcT1vjHwLJWYclwcuxcQVpgnmrBIhahcqUaiisZS56xTotr7oQHxOKz6kVB/ur9wxLxaK/BOFYIyEIOqj1fGz5B0SNLcn4TkqvefxagGyRgCZ+hRAmv3nABW3+nJXXn9xU127nwfXDiSzmT2uliE+OBCdRZmU8YiGNEXxuvMOtNvF3FCaKTh/YM4rBScqOO2D3eSUiY52gWP05rRgPj4SA6fRZzhGnDz1k01Bq47eUiJuY69yy+rLXHcG8hXSCTFXpzqCFoyh6iAskwH5C/LY9oDv5ood+/tnPK9i4EgMAhsbJYJEL33I5U/dHqFsg7Jhima4qBcL2UVFnxTfCzhSUKcPSfYuIhzfZahmbSdev4PCexOt72g3ObkX6tq8z95EN9zHHBa7fYlmaI6o/ZzhdHaH2RMRRJzRE+d/uyeWgwb4mx5pX6pHjm7fHeFmjEui1r27qccLURvaMAJlmUhgLCXG2C8Y4dVHXP2XZWK+lG7dHDS5yTKZ4PsiZWKN6F4hjmYL38d5/m5qkITy2xPcu8B12tGyN0i+f0vVZTvPVpfhvOoEYv2LgQOXhH9Tx+X6u1x/MObKXJUHe6tKGedMKfoJU4p7kSnFGLx/DPN1ppQ2z5lTijC7P49NePcP3Vz/Ag==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-19T02:25:51.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36" etag="zjY3Sc3QrpVlbZLs-Tk0" version="12.2.6" type="github" pages="1">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="1408" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="77e6c97f196da883-1" value="数据开放平台流程图" style="swimlane;html=1;childLayout=stackLayout;startSize=44;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="940" height="750" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-2" value="Scaff" style="swimlane;html=1;startSize=56;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="44" width="310" height="706" as="geometry"/>
+        </mxCell>
+        <mxCell id="uP1CwxHT9n10W5dH78i--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-2" source="77e6c97f196da883-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="440" y="166"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-8" value="1&amp;nbsp;创建应用" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="105" y="140" width="105" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="Open-Service" style="swimlane;html=1;startSize=55;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="310" y="44" width="360" height="706" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-9" value="2&amp;nbsp;生成&amp;nbsp;appid, securityKey" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="130" y="140" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-4" value="Data-Access(数据访问平台)" style="swimlane;html=1;startSize=55;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="670" y="44" width="270" height="706" as="geometry"/>
+        </mxCell>
+        <mxCell id="uP1CwxHT9n10W5dH78i--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="230" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="440" y="230"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
